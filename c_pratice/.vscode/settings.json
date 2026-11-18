@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "D:/c++/mingw64/bin/gcc.exe",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+    "C_Cpp.default.defines": [
+        "__USE_MINGW_ANSI_STDIO=1"
+    ],
+    "debug.saveBeforeStart": "allEditorsInActiveGroup"
+}
